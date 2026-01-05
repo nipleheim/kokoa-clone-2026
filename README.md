@@ -1,3 +1,3 @@
 #Kokoa Clone 2026
 
-CSS got so much better
+HTML & CSS got so much better
