@@ -29,3 +29,14 @@
     top: -25px;
     right: -10px;
 }
+.nav__dots {
+    background-color: tomato;
+    width: 5px;
+    height: 5px;
+    border-radius: 3.5px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: -15px;
+    right: 2px;
+}
